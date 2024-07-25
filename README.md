@@ -2,7 +2,7 @@
 Web application for managing tasks developed using nuxt 3 and tailwind css
 
 ## Setup instruction
-Clone the project by that URL: https://github.com/yat0o1/nuxt-weather
+Clone the project by that URL: https://github.com/yat0o1/nuxt-taskManager
 Run command below to build a docker container:
 
 ```
